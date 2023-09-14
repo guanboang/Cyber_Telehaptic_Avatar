@@ -55,6 +55,3 @@ If you encounter a situation where the VR preview can't be selected as shown in 
 
 ![image.png](https://guanboang.oss-cn-beijing.aliyuncs.com/img/20230914152916.png)
 
----
-
-Note: The images and the links can't be directly translated, so they remain as they were in the original.
